@@ -1,5 +1,5 @@
 # Observer Design Pattern
 
-To see output, please open ObserverDesignPattern.java class and run the main method
+To see output, open this project in Eclipse IDE and run the main method in ObserverDesignPattern.java class
 
 
