@@ -19,7 +19,7 @@ public class ObserverDesignPattern {
 		s3.followChannel(anilVlogs);
 		s4.followChannel(anilVlogs);
 
-		anilVlogs.upload("Observer Design Pattren");
+		anilVlogs.upload("Observer Design Pattern");
 
 	}
 
